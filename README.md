@@ -1,3 +1,3 @@
 # example-repository
 
-Example repository for testing how_is.
+An example repository for testing how_is.
